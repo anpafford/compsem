@@ -1,0 +1,475 @@
+Unnamed: 0,ResponseId,attention,sentence_name,answer,survey,row_id,score,sentence_id,probe_type,probe_number,interval_length,version,complexity,concept_tag
+11,R_2E70Gw66U1MFTey,6,eatingcontinuationprompt3,"Next, you see that the salad is gone.",1,11,1,eating,continuation,3,3,original,1.0,objectness
+12,R_2E70Gw66U1MFTey,6,comingcontinuationprompt1,"Next, you see your friend inside the house.",1,12,0,coming,continuation,1,2,original,1.0,social
+13,R_2E70Gw66U1MFTey,6,taste2continuationprompt3,"Next, you taste something bad.",1,13,1,taste2,continuation,3,4,original,1.0,temporal
+14,R_2E70Gw66U1MFTey,6,colorcontinuationprompt2,"Next, you notice how the blocks are different colors.",1,14,1,color,continuation,2,0,original,2.0,geometry
+15,R_2E70Gw66U1MFTey,6,farcontinuationprompt2,"Next, you notice that the train is nearby.",1,15,0,far,continuation,2,3,original,2.0,objectness
+16,R_2E70Gw66U1MFTey,6,morecontinuationprompt3,"Next, you notice that there are less beads in the bowl than in the cup.",1,16,0,more,continuation,3,1,original,2.0,numerosity
+17,R_2E70Gw66U1MFTey,6,completioncontinuationprompt1,"Next, you look back at the complete form.",1,17,1,completion,continuation,1,3,original,2.0,social
+18,R_2E70Gw66U1MFTey,6,emptycontinuationprompt2,"Next, you pick up the empty box.",1,18,1,empty,continuation,2,5,original,2.0,geometry
+19,R_2E70Gw66U1MFTey,6,smallestcontinuationprompt2,"Next, you see the smaller item in the box.",1,19,1,smallest,continuation,2,2,original,3.0,numerosity
+20,R_2E70Gw66U1MFTey,6,continuation3continuationprompt3,"Next, you take money from the safe.",1,20,0,continuation3,continuation,3,0,original,3.0,temporal
+21,R_2E70Gw66U1MFTey,6,cuttingcontinuationprompt2,"Next, you look at the fence from outside the garden.",1,21,0,cutting,continuation,2,1,original,3.0,geometry
+22,R_2E70Gw66U1MFTey,6,reciprocitycontinuationprompt2,"Next, you offer to return the favor",1,22,1,reciprocity,continuation,2,2,original,3.0,social
+23,R_2E70Gw66U1MFTey,6,speedcontinuationprompt1,"Now, you will arrive earlier to your friend's house.",1,23,1,speed,continuation,1,1,original,3.0,temporal
+34,R_2NqrbPJBbwZJZ2j,6,eatingcontinuationprompt3,"Next, you see that the salad is gone.",1,379,1,eating,continuation,3,3,original,1.0,objectness
+35,R_2NqrbPJBbwZJZ2j,6,comingcontinuationprompt1,"Next, you see your friend inside the house.",1,380,0,coming,continuation,1,2,original,1.0,social
+36,R_2NqrbPJBbwZJZ2j,6,taste2continuationprompt3,"Next, you taste something good.",1,381,0,taste2,continuation,3,4,original,1.0,temporal
+37,R_2NqrbPJBbwZJZ2j,6,colorcontinuationprompt2,"Next, you notice how the blocks are different colors.",1,382,1,color,continuation,2,0,original,2.0,geometry
+38,R_2NqrbPJBbwZJZ2j,6,farcontinuationprompt2,"Next, you notice that the train is far away.",1,383,1,far,continuation,2,3,original,2.0,objectness
+39,R_2NqrbPJBbwZJZ2j,6,morecontinuationprompt3,"Next, you notice that there are less beads in the bowl than in the cup.",1,384,0,more,continuation,3,1,original,2.0,numerosity
+40,R_2NqrbPJBbwZJZ2j,6,completioncontinuationprompt1,"Next, you look back at the complete form.",1,385,1,completion,continuation,1,3,original,2.0,social
+41,R_2NqrbPJBbwZJZ2j,6,emptycontinuationprompt2,"Next, you pick up the empty box.",1,386,1,empty,continuation,2,5,original,2.0,geometry
+42,R_2NqrbPJBbwZJZ2j,6,smallestcontinuationprompt2,"Next, you see the smaller item in the box.",1,387,1,smallest,continuation,2,2,original,3.0,numerosity
+43,R_2NqrbPJBbwZJZ2j,6,continuation3continuationprompt3,"Next, you take money from the safe.",1,388,0,continuation3,continuation,3,0,original,3.0,temporal
+44,R_2NqrbPJBbwZJZ2j,6,cuttingcontinuationprompt2,"Next, you look at the fence from outside the garden.",1,389,0,cutting,continuation,2,1,original,3.0,geometry
+45,R_2NqrbPJBbwZJZ2j,6,reciprocitycontinuationprompt2,"Next, you offer to return the favor",1,390,1,reciprocity,continuation,2,2,original,3.0,social
+46,R_2NqrbPJBbwZJZ2j,6,speedcontinuationprompt1,"Now, you will arrive earlier to your friend's house.",1,391,1,speed,continuation,1,1,original,3.0,temporal
+57,R_8Dqscx89to7KD0R,7,eatingcontinuationprompt3,"Next, you see that the salad is gone.",1,471,1,eating,continuation,3,3,original,1.0,objectness
+58,R_8Dqscx89to7KD0R,7,comingcontinuationprompt1,"Next, you see your friend outside the house.",1,472,1,coming,continuation,1,2,original,1.0,social
+59,R_8Dqscx89to7KD0R,7,taste2continuationprompt3,"Next, you taste something bad.",1,473,1,taste2,continuation,3,4,original,1.0,temporal
+60,R_8Dqscx89to7KD0R,7,colorcontinuationprompt2,"Next, you notice how the blocks are different colors.",1,474,1,color,continuation,2,0,original,2.0,geometry
+61,R_8Dqscx89to7KD0R,7,farcontinuationprompt2,"Next, you notice that the train is nearby.",1,475,0,far,continuation,2,3,original,2.0,objectness
+62,R_8Dqscx89to7KD0R,7,morecontinuationprompt3,"Next, you notice that there are more beads in the bowl than in the cup.",1,476,1,more,continuation,3,1,original,2.0,numerosity
+63,R_8Dqscx89to7KD0R,7,completioncontinuationprompt1,"Next, you look back at the complete form.",1,477,1,completion,continuation,1,3,original,2.0,social
+64,R_8Dqscx89to7KD0R,7,emptycontinuationprompt2,"Next, you pick up the empty box.",1,478,1,empty,continuation,2,5,original,2.0,geometry
+65,R_8Dqscx89to7KD0R,7,smallestcontinuationprompt2,"Next, you see the smaller item in the box.",1,479,1,smallest,continuation,2,2,original,3.0,numerosity
+66,R_8Dqscx89to7KD0R,7,continuation3continuationprompt3,"Next, you take a nothing from the safe.",1,480,1,continuation3,continuation,3,0,original,3.0,temporal
+67,R_8Dqscx89to7KD0R,7,cuttingcontinuationprompt2,"Next, you look at the fence from outside the garden.",1,481,0,cutting,continuation,2,1,original,3.0,geometry
+68,R_8Dqscx89to7KD0R,7,reciprocitycontinuationprompt2,"Next, you offer to return the favor",1,482,1,reciprocity,continuation,2,2,original,3.0,social
+69,R_8Dqscx89to7KD0R,7,speedcontinuationprompt1,"Now, you will arrive earlier to your friend's house.",1,483,1,speed,continuation,1,1,original,3.0,temporal
+80,R_8bOGdtWxRLYfKbt,7,eatingcontinuationprompt3,"Next, you see that the salad is gone.",1,103,1,eating,continuation,3,3,original,1.0,objectness
+81,R_8bOGdtWxRLYfKbt,7,comingcontinuationprompt1,"Next, you see your friend inside the house.",1,104,0,coming,continuation,1,2,original,1.0,social
+82,R_8bOGdtWxRLYfKbt,7,taste2continuationprompt3,"Next, you taste something good.",1,105,0,taste2,continuation,3,4,original,1.0,temporal
+83,R_8bOGdtWxRLYfKbt,7,colorcontinuationprompt2,"Next, you notice how the blocks are different colors.",1,106,1,color,continuation,2,0,original,2.0,geometry
+84,R_8bOGdtWxRLYfKbt,7,farcontinuationprompt2,"Next, you notice that the train is nearby.",1,107,0,far,continuation,2,3,original,2.0,objectness
+85,R_8bOGdtWxRLYfKbt,7,morecontinuationprompt3,"Next, you notice that there are less beads in the bowl than in the cup.",1,108,0,more,continuation,3,1,original,2.0,numerosity
+86,R_8bOGdtWxRLYfKbt,7,completioncontinuationprompt1,"Next, you look back at the complete form.",1,109,1,completion,continuation,1,3,original,2.0,social
+87,R_8bOGdtWxRLYfKbt,7,emptycontinuationprompt2,"Next, you pick up the almost empty box.",1,110,0,empty,continuation,2,5,original,2.0,geometry
+88,R_8bOGdtWxRLYfKbt,7,smallestcontinuationprompt2,"Next, you see the smaller item in the box.",1,111,1,smallest,continuation,2,2,original,3.0,numerosity
+89,R_8bOGdtWxRLYfKbt,7,continuation3continuationprompt3,"Next, you take a nothing from the safe.",1,112,1,continuation3,continuation,3,0,original,3.0,temporal
+90,R_8bOGdtWxRLYfKbt,7,cuttingcontinuationprompt2,"Next, you look at the fence from inside the garden.",1,113,1,cutting,continuation,2,1,original,3.0,geometry
+91,R_8bOGdtWxRLYfKbt,7,reciprocitycontinuationprompt2,"Next, you offer to return the favor",1,114,1,reciprocity,continuation,2,2,original,3.0,social
+92,R_8bOGdtWxRLYfKbt,7,speedcontinuationprompt1,"Now, you will arrive earlier to your friend's house.",1,115,1,speed,continuation,1,1,original,3.0,temporal
+103,R_8dtGgcDUjGNqriv,6,eatingcontinuationprompt3,"Next, you see that the salad is gone.",1,563,1,eating,continuation,3,3,original,1.0,objectness
+104,R_8dtGgcDUjGNqriv,6,comingcontinuationprompt1,"Next, you see your friend outside the house.",1,564,1,coming,continuation,1,2,original,1.0,social
+105,R_8dtGgcDUjGNqriv,6,taste2continuationprompt3,"Next, you taste something good.",1,565,0,taste2,continuation,3,4,original,1.0,temporal
+106,R_8dtGgcDUjGNqriv,6,colorcontinuationprompt2,"Next, you notice how the blocks are different colors.",1,566,1,color,continuation,2,0,original,2.0,geometry
+107,R_8dtGgcDUjGNqriv,6,farcontinuationprompt2,"Next, you notice that the train is far away.",1,567,1,far,continuation,2,3,original,2.0,objectness
+108,R_8dtGgcDUjGNqriv,6,morecontinuationprompt3,"Next, you notice that there are more beads in the bowl than in the cup.",1,568,1,more,continuation,3,1,original,2.0,numerosity
+109,R_8dtGgcDUjGNqriv,6,completioncontinuationprompt1,"Next, you look back at the complete form.",1,569,1,completion,continuation,1,3,original,2.0,social
+110,R_8dtGgcDUjGNqriv,6,emptycontinuationprompt2,"Next, you pick up the empty box.",1,570,1,empty,continuation,2,5,original,2.0,geometry
+111,R_8dtGgcDUjGNqriv,6,smallestcontinuationprompt2,"Next, you see the smaller item in the box.",1,571,1,smallest,continuation,2,2,original,3.0,numerosity
+112,R_8dtGgcDUjGNqriv,6,continuation3continuationprompt3,"Next, you take a nothing from the safe.",1,572,1,continuation3,continuation,3,0,original,3.0,temporal
+113,R_8dtGgcDUjGNqriv,6,cuttingcontinuationprompt2,"Next, you look at the fence from inside the garden.",1,573,1,cutting,continuation,2,1,original,3.0,geometry
+114,R_8dtGgcDUjGNqriv,6,reciprocitycontinuationprompt2,"Next, you offer to return the favor",1,574,1,reciprocity,continuation,2,2,original,3.0,social
+115,R_8dtGgcDUjGNqriv,6,speedcontinuationprompt1,"Now, you will arrive at the same time to your friend's house.",1,575,0,speed,continuation,1,1,original,3.0,temporal
+126,R_8fchfT3ZW1QlDz3,7,eatingcontinuationprompt3,"Next, you see that the salad is still there.",1,287,0,eating,continuation,3,3,original,1.0,objectness
+127,R_8fchfT3ZW1QlDz3,7,comingcontinuationprompt1,"Next, you see your friend outside the house.",1,288,1,coming,continuation,1,2,original,1.0,social
+128,R_8fchfT3ZW1QlDz3,7,taste2continuationprompt3,"Next, you taste something bad.",1,289,1,taste2,continuation,3,4,original,1.0,temporal
+129,R_8fchfT3ZW1QlDz3,7,farcontinuationprompt2,"Next, you notice that the train is nearby.",1,291,0,far,continuation,2,3,original,2.0,objectness
+130,R_8fchfT3ZW1QlDz3,7,morecontinuationprompt3,"Next, you notice that there are more beads in the bowl than in the cup.",1,292,1,more,continuation,3,1,original,2.0,numerosity
+131,R_8fchfT3ZW1QlDz3,7,emptycontinuationprompt2,"Next, you pick up the empty box.",1,294,1,empty,continuation,2,5,original,2.0,geometry
+132,R_8fchfT3ZW1QlDz3,7,smallestcontinuationprompt2,"Next, you see the smaller item in the box.",1,295,1,smallest,continuation,2,2,original,3.0,numerosity
+133,R_8fchfT3ZW1QlDz3,7,continuation3continuationprompt3,"Next, you take money from the safe.",1,296,0,continuation3,continuation,3,0,original,3.0,temporal
+134,R_8fchfT3ZW1QlDz3,7,cuttingcontinuationprompt2,"Next, you look at the fence from outside the garden.",1,297,0,cutting,continuation,2,1,original,3.0,geometry
+135,R_8fchfT3ZW1QlDz3,7,reciprocitycontinuationprompt2,"Next, you offer to return the favor",1,298,1,reciprocity,continuation,2,2,original,3.0,social
+136,R_8fchfT3ZW1QlDz3,7,speedcontinuationprompt1,"Now, you will arrive earlier to your friend's house.",1,299,1,speed,continuation,1,1,original,3.0,temporal
+147,R_8qV7UAPrFF4PSwG,6,eatingcontinuationprompt3,"Next, you see that the salad is gone.",1,195,1,eating,continuation,3,3,original,1.0,objectness
+148,R_8qV7UAPrFF4PSwG,6,comingcontinuationprompt1,"Next, you see your friend outside the house.",1,196,1,coming,continuation,1,2,original,1.0,social
+149,R_8qV7UAPrFF4PSwG,6,taste2continuationprompt3,"Next, you taste something bad.",1,197,1,taste2,continuation,3,4,original,1.0,temporal
+150,R_8qV7UAPrFF4PSwG,6,colorcontinuationprompt2,"Next, you notice how the blocks are different colors.",1,198,1,color,continuation,2,0,original,2.0,geometry
+151,R_8qV7UAPrFF4PSwG,6,farcontinuationprompt2,"Next, you notice that the train is nearby.",1,199,0,far,continuation,2,3,original,2.0,objectness
+152,R_8qV7UAPrFF4PSwG,6,morecontinuationprompt3,"Next, you notice that there are more beads in the bowl than in the cup.",1,200,1,more,continuation,3,1,original,2.0,numerosity
+153,R_8qV7UAPrFF4PSwG,6,completioncontinuationprompt1,"Next, you look back at the complete form.",1,201,1,completion,continuation,1,3,original,2.0,social
+154,R_8qV7UAPrFF4PSwG,6,emptycontinuationprompt2,"Next, you pick up the empty box.",1,202,1,empty,continuation,2,5,original,2.0,geometry
+155,R_8qV7UAPrFF4PSwG,6,smallestcontinuationprompt2,"Next, you see the smaller item in the box.",1,203,1,smallest,continuation,2,2,original,3.0,numerosity
+156,R_8qV7UAPrFF4PSwG,6,continuation3continuationprompt3,"Next, you take a nothing from the safe.",1,204,1,continuation3,continuation,3,0,original,3.0,temporal
+157,R_8qV7UAPrFF4PSwG,6,cuttingcontinuationprompt2,"Next, you look at the fence from inside the garden.",1,205,1,cutting,continuation,2,1,original,3.0,geometry
+158,R_8qV7UAPrFF4PSwG,6,reciprocitycontinuationprompt2,"Next, you offer to return the favor",1,206,1,reciprocity,continuation,2,2,original,3.0,social
+159,R_8qV7UAPrFF4PSwG,6,speedcontinuationprompt1,"Now, you will arrive earlier to your friend's house.",1,207,1,speed,continuation,1,1,original,3.0,temporal
+172,R_2AbPByjs6GwAqNH,7,touchcontinuationprompt3,"Next, you feel a prick.",2,197,1,touch,continuation,3,3,original,1.0,objectness
+173,R_2AbPByjs6GwAqNH,7,daycontinuationprompt2,"Next, you look at the clock and see that it is 7AM.",2,198,1,day,continuation,2,1,original,1.0,temporal
+174,R_2AbPByjs6GwAqNH,7,abovecontinuationprompt3,"Next, you look back at the books on top of the shelf.",2,199,1,above,continuation,3,3,original,1.0,geometry
+175,R_2AbPByjs6GwAqNH,7,agecontinuationprompt3,"Next, you think about how that was a long time ago.",2,200,1,age,continuation,3,5,original,1.0,temporal
+176,R_2AbPByjs6GwAqNH,7,largest2continuationprompt3,"Next, you leave less money for the next person.",2,201,1,largest2,continuation,3,2,original,2.0,numerosity
+177,R_2AbPByjs6GwAqNH,7,farcontinuationprompt1,"Now, you know that you will be here for some time",2,202,1,far,continuation,1,5,original,2.0,objectness
+178,R_2AbPByjs6GwAqNH,7,completioncontinuationprompt3,"Next, you put the pen next to the complete form.",2,203,1,completion,continuation,3,0,original,2.0,social
+179,R_2AbPByjs6GwAqNH,7,correspondencecontinuationprompt1,"Next, you unlock the door.",2,204,1,correspondence,continuation,1,3,original,3.0,temporal
+180,R_2AbPByjs6GwAqNH,7,mattercontinuationprompt1,"Next, you notice the water boiling.",2,205,1,matter,continuation,1,5,original,3.0,geometry
+181,R_2AbPByjs6GwAqNH,7,namescontinuationprompt1,"Next, you ask whether his name is John.",2,206,1,names,continuation,1,5,original,3.0,social
+182,R_2AbPByjs6GwAqNH,7,reciprocitycontinuationprompt3,"Next, you say thank you.",2,207,1,reciprocity,continuation,3,2,original,3.0,social
+195,R_2JIsSKLClFiYCY6,5,touchcontinuationprompt3,"Next, you feel a prick.",2,105,1,touch,continuation,3,3,original,1.0,objectness
+196,R_2JIsSKLClFiYCY6,5,daycontinuationprompt2,"Next, you look at the clock and see that it is 7AM.",2,106,1,day,continuation,2,1,original,1.0,temporal
+197,R_2JIsSKLClFiYCY6,5,abovecontinuationprompt3,"Next, you look back at the books on top of the shelf.",2,107,1,above,continuation,3,3,original,1.0,geometry
+198,R_2JIsSKLClFiYCY6,5,agecontinuationprompt3,"Next, you think about how that was a long time ago.",2,108,1,age,continuation,3,5,original,1.0,temporal
+199,R_2JIsSKLClFiYCY6,5,largest2continuationprompt3,"Next, you leave less money for the next person.",2,109,1,largest2,continuation,3,2,original,2.0,numerosity
+200,R_2JIsSKLClFiYCY6,5,farcontinuationprompt1,"Now, you know that you will be here for some time",2,110,1,far,continuation,1,5,original,2.0,objectness
+201,R_2JIsSKLClFiYCY6,5,completioncontinuationprompt3,"Next, you put the pen next to the complete form.",2,111,1,completion,continuation,3,0,original,2.0,social
+202,R_2JIsSKLClFiYCY6,5,correspondencecontinuationprompt1,"Next, you unlock the door.",2,112,1,correspondence,continuation,1,3,original,3.0,temporal
+203,R_2JIsSKLClFiYCY6,5,mattercontinuationprompt1,"Next, you notice the water boiling.",2,113,1,matter,continuation,1,5,original,3.0,geometry
+204,R_2JIsSKLClFiYCY6,5,namescontinuationprompt1,"Next, you ask whether his name is John.",2,114,1,names,continuation,1,5,original,3.0,social
+205,R_2JIsSKLClFiYCY6,5,reciprocitycontinuationprompt3,"Next, you say thank you.",2,115,1,reciprocity,continuation,3,2,original,3.0,social
+218,R_82PbtRlJxA6hQax,7,touchcontinuationprompt3,"Next, you feel a prick.",2,473,1,touch,continuation,3,3,original,1.0,objectness
+219,R_82PbtRlJxA6hQax,7,daycontinuationprompt2,"Next, you look at the clock and see that it is 7AM.",2,474,1,day,continuation,2,1,original,1.0,temporal
+220,R_82PbtRlJxA6hQax,7,abovecontinuationprompt3,"Next, you look back at the books on top of the shelf.",2,475,1,above,continuation,3,3,original,1.0,geometry
+221,R_82PbtRlJxA6hQax,7,agecontinuationprompt3,"Next, you think about how that was a long time ago.",2,476,1,age,continuation,3,5,original,1.0,temporal
+222,R_82PbtRlJxA6hQax,7,largest2continuationprompt3,"Next, you leave less money for the next person.",2,477,1,largest2,continuation,3,2,original,2.0,numerosity
+223,R_82PbtRlJxA6hQax,7,farcontinuationprompt1,"Now, you know that you will be here for some time",2,478,1,far,continuation,1,5,original,2.0,objectness
+224,R_82PbtRlJxA6hQax,7,completioncontinuationprompt3,"Next, you put the pen next to the complete form.",2,479,1,completion,continuation,3,0,original,2.0,social
+225,R_82PbtRlJxA6hQax,7,correspondencecontinuationprompt1,"Next, you unlock the door.",2,480,1,correspondence,continuation,1,3,original,3.0,temporal
+226,R_82PbtRlJxA6hQax,7,mattercontinuationprompt1,"Next, you notice the ice melting.",2,481,0,matter,continuation,1,5,original,3.0,geometry
+227,R_82PbtRlJxA6hQax,7,namescontinuationprompt1,"Next, you ask whether his name is John.",2,482,1,names,continuation,1,5,original,3.0,social
+228,R_82PbtRlJxA6hQax,7,reciprocitycontinuationprompt3,"Next, you say thank you.",2,483,1,reciprocity,continuation,3,2,original,3.0,social
+241,R_88FWwjnDmIlALSh,6,touchcontinuationprompt3,"Next, you feel a prick.",2,289,1,touch,continuation,3,3,original,1.0,objectness
+242,R_88FWwjnDmIlALSh,6,daycontinuationprompt2,"Next, you look at the clock and see that it is 7AM.",2,290,1,day,continuation,2,1,original,1.0,temporal
+243,R_88FWwjnDmIlALSh,6,abovecontinuationprompt3,"Next, you look back at the books below the shelf.",2,291,0,above,continuation,3,3,original,1.0,geometry
+244,R_88FWwjnDmIlALSh,6,agecontinuationprompt3,"Next, you think about how that was a long time ago.",2,292,1,age,continuation,3,5,original,1.0,temporal
+245,R_88FWwjnDmIlALSh,6,largest2continuationprompt3,"Next, you leave less money for the next person.",2,293,1,largest2,continuation,3,2,original,2.0,numerosity
+246,R_88FWwjnDmIlALSh,6,farcontinuationprompt1,"Now, you know that you will be here for some time",2,294,1,far,continuation,1,5,original,2.0,objectness
+247,R_88FWwjnDmIlALSh,6,completioncontinuationprompt3,"Next, you put the pen next to the complete form.",2,295,1,completion,continuation,3,0,original,2.0,social
+248,R_88FWwjnDmIlALSh,6,correspondencecontinuationprompt1,"Next, you unlock the door.",2,296,1,correspondence,continuation,1,3,original,3.0,temporal
+249,R_88FWwjnDmIlALSh,6,mattercontinuationprompt1,"Next, you notice the water boiling.",2,297,1,matter,continuation,1,5,original,3.0,geometry
+250,R_88FWwjnDmIlALSh,6,namescontinuationprompt1,"Next, you ask whether his name is John.",2,298,1,names,continuation,1,5,original,3.0,social
+251,R_88FWwjnDmIlALSh,6,reciprocitycontinuationprompt3,"Next, you say thank you.",2,299,1,reciprocity,continuation,3,2,original,3.0,social
+264,R_8OGBoWXDfyIzKE2,7,touchcontinuationprompt3,"Next, you feel a prick.",2,381,1,touch,continuation,3,3,original,1.0,objectness
+265,R_8OGBoWXDfyIzKE2,7,daycontinuationprompt2,"Next, you look at the clock and see that it is 7AM.",2,382,1,day,continuation,2,1,original,1.0,temporal
+266,R_8OGBoWXDfyIzKE2,7,abovecontinuationprompt3,"Next, you look back at the books on top of the shelf.",2,383,1,above,continuation,3,3,original,1.0,geometry
+267,R_8OGBoWXDfyIzKE2,7,agecontinuationprompt3,"Next, you think about how that was a long time ago.",2,384,1,age,continuation,3,5,original,1.0,temporal
+268,R_8OGBoWXDfyIzKE2,7,largest2continuationprompt3,"Next, you leave less money for the next person.",2,385,1,largest2,continuation,3,2,original,2.0,numerosity
+269,R_8OGBoWXDfyIzKE2,7,farcontinuationprompt1,"Now, you know that you will be here for some time",2,386,1,far,continuation,1,5,original,2.0,objectness
+270,R_8OGBoWXDfyIzKE2,7,completioncontinuationprompt3,"Next, you put the pen next to the complete form.",2,387,1,completion,continuation,3,0,original,2.0,social
+271,R_8OGBoWXDfyIzKE2,7,correspondencecontinuationprompt1,"Next, you unlock the door.",2,388,1,correspondence,continuation,1,3,original,3.0,temporal
+272,R_8OGBoWXDfyIzKE2,7,mattercontinuationprompt1,"Next, you notice the ice melting.",2,389,0,matter,continuation,1,5,original,3.0,geometry
+273,R_8OGBoWXDfyIzKE2,7,namescontinuationprompt1,"Next, you ask whether his name is John.",2,390,1,names,continuation,1,5,original,3.0,social
+274,R_8OGBoWXDfyIzKE2,7,reciprocitycontinuationprompt3,"Next, you say thank you.",2,391,1,reciprocity,continuation,3,2,original,3.0,social
+287,R_8QthgUwX0iY3JJt,7,touchcontinuationprompt3,"Next, you feel a prick.",2,13,1,touch,continuation,3,3,original,1.0,objectness
+288,R_8QthgUwX0iY3JJt,7,daycontinuationprompt2,"Next, you look at the clock and see that it is 7AM.",2,14,1,day,continuation,2,1,original,1.0,temporal
+289,R_8QthgUwX0iY3JJt,7,abovecontinuationprompt3,"Next, you look back at the books on top of the shelf.",2,15,1,above,continuation,3,3,original,1.0,geometry
+290,R_8QthgUwX0iY3JJt,7,agecontinuationprompt3,"Next, you think about how that was a long time ago.",2,16,1,age,continuation,3,5,original,1.0,temporal
+291,R_8QthgUwX0iY3JJt,7,largest2continuationprompt3,"Next, you leave less money for the next person.",2,17,1,largest2,continuation,3,2,original,2.0,numerosity
+292,R_8QthgUwX0iY3JJt,7,farcontinuationprompt1,"Now, you know that you will be here for some time",2,18,1,far,continuation,1,5,original,2.0,objectness
+293,R_8QthgUwX0iY3JJt,7,completioncontinuationprompt3,"Next, you put the pen next to the complete form.",2,19,1,completion,continuation,3,0,original,2.0,social
+294,R_8QthgUwX0iY3JJt,7,correspondencecontinuationprompt1,"Next, you unlock the door.",2,20,1,correspondence,continuation,1,3,original,3.0,temporal
+295,R_8QthgUwX0iY3JJt,7,mattercontinuationprompt1,"Next, you notice the water boiling.",2,21,1,matter,continuation,1,5,original,3.0,geometry
+296,R_8QthgUwX0iY3JJt,7,namescontinuationprompt1,"Next, you ask whether his name is John.",2,22,1,names,continuation,1,5,original,3.0,social
+297,R_8QthgUwX0iY3JJt,7,reciprocitycontinuationprompt3,"Next, you say thank you.",2,23,1,reciprocity,continuation,3,2,original,3.0,social
+310,R_8ijJGZWfPYPIkLr,5,touchcontinuationprompt3,"Next, you feel nothing.",2,565,0,touch,continuation,3,3,original,1.0,objectness
+311,R_8ijJGZWfPYPIkLr,5,daycontinuationprompt2,"Next, you look at the clock and see that it is 7AM.",2,566,1,day,continuation,2,1,original,1.0,temporal
+312,R_8ijJGZWfPYPIkLr,5,abovecontinuationprompt3,"Next, you look back at the books on top of the shelf.",2,567,1,above,continuation,3,3,original,1.0,geometry
+313,R_8ijJGZWfPYPIkLr,5,agecontinuationprompt3,"Next, you think about how that was not a long time ago.",2,568,0,age,continuation,3,5,original,1.0,temporal
+314,R_8ijJGZWfPYPIkLr,5,largest2continuationprompt3,"Next, you leave more money for the next person.",2,569,0,largest2,continuation,3,2,original,2.0,numerosity
+315,R_8ijJGZWfPYPIkLr,5,farcontinuationprompt1,"Now, you know that you will be here not so long",2,570,0,far,continuation,1,5,original,2.0,objectness
+316,R_8ijJGZWfPYPIkLr,5,completioncontinuationprompt3,"Next, you put the pen next to the complete form.",2,571,1,completion,continuation,3,0,original,2.0,social
+317,R_8ijJGZWfPYPIkLr,5,correspondencecontinuationprompt1,"Next, you unlock the door.",2,572,1,correspondence,continuation,1,3,original,3.0,temporal
+318,R_8ijJGZWfPYPIkLr,5,mattercontinuationprompt1,"Next, you notice the ice melting.",2,573,0,matter,continuation,1,5,original,3.0,geometry
+319,R_8ijJGZWfPYPIkLr,5,namescontinuationprompt1,"Next, you ask whether his name is John.",2,574,1,names,continuation,1,5,original,3.0,social
+320,R_8ijJGZWfPYPIkLr,5,reciprocitycontinuationprompt3,"Next, you say thank you.",2,575,1,reciprocity,continuation,3,2,original,3.0,social
+333,R_271KyPA8bbwm5Zt,6,copycontinuationprompt3,"Now, you have two lists.",3,105,1,copy,continuation,3,4,original,2.0,social
+334,R_271KyPA8bbwm5Zt,6,newcontinuationprompt2,"Next, you look at all the dust.",3,106,0,new,continuation,2,0,original,2.0,temporal
+335,R_271KyPA8bbwm5Zt,6,smallest2continuationprompt1,"Next, you look back at the smaller apple in your hand.",3,107,1,smallest2,continuation,1,0,original,2.0,numerosity
+336,R_271KyPA8bbwm5Zt,6,mattercontinuationprompt2,"Next, you notice the gas forming.",3,108,1,matter,continuation,2,3,original,3.0,geometry
+337,R_271KyPA8bbwm5Zt,6,cuttingcontinuationprompt1,"Next, you go for a walk in the neighborhood.",3,109,0,cutting,continuation,1,2,original,3.0,geometry
+338,R_271KyPA8bbwm5Zt,6,continuation2continuationprompt1,"Next, you open the chest.",3,110,1,continuation2,continuation,1,3,original,3.0,temporal
+339,R_271KyPA8bbwm5Zt,6,dyingcontinuationprompt1,"Next, you notice the flowers are dead when you return.",3,111,1,dying,continuation,1,1,original,3.0,temporal
+340,R_271KyPA8bbwm5Zt,6,reciprocitycontinuationprompt3,"Next, you say thank you.",3,113,1,reciprocity,continuation,3,2,original,3.0,social
+341,R_271KyPA8bbwm5Zt,6,namescontinuationprompt1,"Next, you ask whether his name is John.",3,114,1,names,continuation,1,1,original,3.0,social
+342,R_271KyPA8bbwm5Zt,6,continuation3continuationprompt1,"Next, you open the safe.",3,115,1,continuation3,continuation,1,2,original,3.0,temporal
+355,R_2PiVsa4tOcvS5O1,6,copycontinuationprompt3,"Now, you have one list.",3,289,0,copy,continuation,3,4,original,2.0,social
+356,R_2PiVsa4tOcvS5O1,6,newcontinuationprompt2,"Next, you look at all the dust.",3,290,0,new,continuation,2,0,original,2.0,temporal
+357,R_2PiVsa4tOcvS5O1,6,smallest2continuationprompt1,"Next, you look back at the smaller apple in your hand.",3,291,1,smallest2,continuation,1,0,original,2.0,numerosity
+358,R_2PiVsa4tOcvS5O1,6,mattercontinuationprompt2,"Next, you notice the gas forming.",3,292,1,matter,continuation,2,3,original,3.0,geometry
+359,R_2PiVsa4tOcvS5O1,6,cuttingcontinuationprompt1,"Next, you go for a walk in the garden.",3,293,1,cutting,continuation,1,2,original,3.0,geometry
+360,R_2PiVsa4tOcvS5O1,6,continuation2continuationprompt1,"Next, you open the chest.",3,294,1,continuation2,continuation,1,3,original,3.0,temporal
+361,R_2PiVsa4tOcvS5O1,6,dyingcontinuationprompt1,"Next, you notice the flowers are dead when you return.",3,295,1,dying,continuation,1,1,original,3.0,temporal
+362,R_2PiVsa4tOcvS5O1,6,reciprocitycontinuationprompt3,"Next, you say thank you.",3,297,1,reciprocity,continuation,3,2,original,3.0,social
+363,R_2PiVsa4tOcvS5O1,6,namescontinuationprompt1,"Next, you ask whether his name is John.",3,298,1,names,continuation,1,1,original,3.0,social
+364,R_2PiVsa4tOcvS5O1,6,continuation3continuationprompt1,"Next, you safe the chest.",3,299,0,continuation3,continuation,1,2,original,3.0,temporal
+377,R_2duwlmkzpympN2V,5,copycontinuationprompt3,"Now, you have one list.",3,473,0,copy,continuation,3,4,original,2.0,social
+378,R_2duwlmkzpympN2V,5,newcontinuationprompt2,"Next, you look at all the dust.",3,474,0,new,continuation,2,0,original,2.0,temporal
+379,R_2duwlmkzpympN2V,5,smallest2continuationprompt1,"Next, you look back at the smaller apple in your hand.",3,475,1,smallest2,continuation,1,0,original,2.0,numerosity
+380,R_2duwlmkzpympN2V,5,mattercontinuationprompt2,"Next, you notice the gas forming.",3,476,1,matter,continuation,2,3,original,3.0,geometry
+381,R_2duwlmkzpympN2V,5,cuttingcontinuationprompt1,"Next, you go for a walk in the garden.",3,477,1,cutting,continuation,1,2,original,3.0,geometry
+382,R_2duwlmkzpympN2V,5,continuation2continuationprompt1,"Next, you open the chest.",3,478,1,continuation2,continuation,1,3,original,3.0,temporal
+383,R_2duwlmkzpympN2V,5,dyingcontinuationprompt1,"Next, you notice the flowers are dead when you return.",3,479,1,dying,continuation,1,1,original,3.0,temporal
+384,R_2duwlmkzpympN2V,5,reciprocitycontinuationprompt3,"Next, you say thank you.",3,481,1,reciprocity,continuation,3,2,original,3.0,social
+385,R_2duwlmkzpympN2V,5,namescontinuationprompt1,"Next, you ask whether his name is John.",3,482,1,names,continuation,1,1,original,3.0,social
+386,R_2duwlmkzpympN2V,5,continuation3continuationprompt1,"Next, you open the safe.",3,483,1,continuation3,continuation,1,2,original,3.0,temporal
+399,R_2o5zerK8owggjub,6,copycontinuationprompt3,"Now, you have one list.",3,565,0,copy,continuation,3,4,original,2.0,social
+400,R_2o5zerK8owggjub,6,newcontinuationprompt2,"Next, you look at all the dust.",3,566,0,new,continuation,2,0,original,2.0,temporal
+401,R_2o5zerK8owggjub,6,smallest2continuationprompt1,"Next, you look back at the smaller apple in your hand.",3,567,1,smallest2,continuation,1,0,original,2.0,numerosity
+402,R_2o5zerK8owggjub,6,mattercontinuationprompt2,"Next, you notice the gas forming.",3,568,1,matter,continuation,2,3,original,3.0,geometry
+403,R_2o5zerK8owggjub,6,cuttingcontinuationprompt1,"Next, you go for a walk in the garden.",3,569,1,cutting,continuation,1,2,original,3.0,geometry
+404,R_2o5zerK8owggjub,6,continuation2continuationprompt1,"Next, you open the chest.",3,570,1,continuation2,continuation,1,3,original,3.0,temporal
+405,R_2o5zerK8owggjub,6,dyingcontinuationprompt1,"Next, you notice the flowers are dead when you return.",3,571,1,dying,continuation,1,1,original,3.0,temporal
+406,R_2o5zerK8owggjub,6,reciprocitycontinuationprompt3,"Next, you say thank you.",3,573,1,reciprocity,continuation,3,2,original,3.0,social
+407,R_2o5zerK8owggjub,6,namescontinuationprompt1,"Next, you ask whether his name is John.",3,574,1,names,continuation,1,1,original,3.0,social
+408,R_2o5zerK8owggjub,6,continuation3continuationprompt1,"Next, you open the safe.",3,575,1,continuation3,continuation,1,2,original,3.0,temporal
+421,R_8FkRTzhTgJtvPcX,6,copycontinuationprompt3,"Now, you have one list.",3,381,0,copy,continuation,3,4,original,2.0,social
+422,R_8FkRTzhTgJtvPcX,6,newcontinuationprompt2,"Next, you look at all the dust.",3,382,0,new,continuation,2,0,original,2.0,temporal
+423,R_8FkRTzhTgJtvPcX,6,smallest2continuationprompt1,"Next, you look back at the bigger apple in your hand.",3,383,0,smallest2,continuation,1,0,original,2.0,numerosity
+424,R_8FkRTzhTgJtvPcX,6,mattercontinuationprompt2,"Next, you notice the gas forming.",3,384,1,matter,continuation,2,3,original,3.0,geometry
+425,R_8FkRTzhTgJtvPcX,6,cuttingcontinuationprompt1,"Next, you go for a walk in the garden.",3,385,1,cutting,continuation,1,2,original,3.0,geometry
+426,R_8FkRTzhTgJtvPcX,6,continuation2continuationprompt1,"Next, you open the chest.",3,386,1,continuation2,continuation,1,3,original,3.0,temporal
+427,R_8FkRTzhTgJtvPcX,6,dyingcontinuationprompt1,"Next, you notice the flowers are still alive when you return.",3,387,0,dying,continuation,1,1,original,3.0,temporal
+428,R_8FkRTzhTgJtvPcX,6,reciprocitycontinuationprompt3,"Next, you say nothing.",3,389,0,reciprocity,continuation,3,2,original,3.0,social
+429,R_8FkRTzhTgJtvPcX,6,namescontinuationprompt1,"Next, you ask whether his name is John.",3,390,1,names,continuation,1,1,original,3.0,social
+430,R_8FkRTzhTgJtvPcX,6,continuation3continuationprompt1,"Next, you open the safe.",3,391,1,continuation3,continuation,1,2,original,3.0,temporal
+443,R_8OoALMCflzl9DSY,5,copycontinuationprompt3,"Now, you have one list.",3,197,0,copy,continuation,3,4,original,2.0,social
+444,R_8OoALMCflzl9DSY,5,newcontinuationprompt2,"Next, you look at all the dust.",3,198,0,new,continuation,2,0,original,2.0,temporal
+445,R_8OoALMCflzl9DSY,5,smallest2continuationprompt1,"Next, you look back at the smaller apple in your hand.",3,199,1,smallest2,continuation,1,0,original,2.0,numerosity
+446,R_8OoALMCflzl9DSY,5,mattercontinuationprompt2,"Next, you notice the solid forming.",3,200,0,matter,continuation,2,3,original,3.0,geometry
+447,R_8OoALMCflzl9DSY,5,cuttingcontinuationprompt1,"Next, you go for a walk in the neighborhood.",3,201,0,cutting,continuation,1,2,original,3.0,geometry
+448,R_8OoALMCflzl9DSY,5,continuation2continuationprompt1,"Next, you open the chest.",3,202,1,continuation2,continuation,1,3,original,3.0,temporal
+449,R_8OoALMCflzl9DSY,5,dyingcontinuationprompt1,"Next, you notice the flowers are still alive when you return.",3,203,0,dying,continuation,1,1,original,3.0,temporal
+450,R_8OoALMCflzl9DSY,5,reciprocitycontinuationprompt3,"Next, you say thank you.",3,205,1,reciprocity,continuation,3,2,original,3.0,social
+451,R_8OoALMCflzl9DSY,5,namescontinuationprompt1,"Next, you ask whether his name is John.",3,206,1,names,continuation,1,1,original,3.0,social
+452,R_8OoALMCflzl9DSY,5,continuation3continuationprompt1,"Next, you open the safe.",3,207,1,continuation3,continuation,1,2,original,3.0,temporal
+465,R_8Wy8yg38BGgO5RT,7,copycontinuationprompt3,"Now, you have two lists.",3,13,1,copy,continuation,3,4,original,2.0,social
+466,R_8Wy8yg38BGgO5RT,7,newcontinuationprompt2,"Next, you look at all the sparkling gold.",3,14,1,new,continuation,2,0,original,2.0,temporal
+467,R_8Wy8yg38BGgO5RT,7,smallest2continuationprompt1,"Next, you look back at the smaller apple in your hand.",3,15,1,smallest2,continuation,1,0,original,2.0,numerosity
+468,R_8Wy8yg38BGgO5RT,7,mattercontinuationprompt2,"Next, you notice the gas forming.",3,16,1,matter,continuation,2,3,original,3.0,geometry
+469,R_8Wy8yg38BGgO5RT,7,cuttingcontinuationprompt1,"Next, you go for a walk in the garden.",3,17,1,cutting,continuation,1,2,original,3.0,geometry
+470,R_8Wy8yg38BGgO5RT,7,continuation2continuationprompt1,"Next, you open the chest.",3,18,1,continuation2,continuation,1,3,original,3.0,temporal
+471,R_8Wy8yg38BGgO5RT,7,dyingcontinuationprompt1,"Next, you notice the flowers are dead when you return.",3,19,1,dying,continuation,1,1,original,3.0,temporal
+472,R_8Wy8yg38BGgO5RT,7,reciprocitycontinuationprompt3,"Next, you say thank you.",3,21,1,reciprocity,continuation,3,2,original,3.0,social
+473,R_8Wy8yg38BGgO5RT,7,namescontinuationprompt1,"Next, you ask whether his name is John.",3,22,1,names,continuation,1,1,original,3.0,social
+474,R_8Wy8yg38BGgO5RT,7,continuation3continuationprompt1,"Next, you open the safe.",3,23,1,continuation3,continuation,1,2,original,3.0,temporal
+485,R_2BORCQnniI0pa8p,7,colorcontinuationprompt2,"Next, you notice how the blocks are different colors.",4,379,1,color,continuation,2,0,shuffled,2.0,geometry
+486,R_2BORCQnniI0pa8p,7,speedcontinuationprompt1,"Now, you will arrive earlier to your friend's house.",4,380,1,speed,continuation,1,1,shuffled,3.0,temporal
+487,R_2BORCQnniI0pa8p,7,reciprocitycontinuationprompt2,"Next, you offer to return the favor",4,381,1,reciprocity,continuation,2,2,shuffled,3.0,social
+488,R_2BORCQnniI0pa8p,7,smallestcontinuationprompt2,"Next, you see the smaller item in the box.",4,382,1,smallest,continuation,2,2,shuffled,3.0,numerosity
+489,R_2BORCQnniI0pa8p,7,completioncontinuationprompt1,"Next, you look back at the empty form.",4,383,0,completion,continuation,1,3,shuffled,2.0,social
+490,R_2BORCQnniI0pa8p,7,taste2continuationprompt3,"Next, you taste something bad.",4,384,1,taste2,continuation,3,4,shuffled,1.0,temporal
+491,R_2BORCQnniI0pa8p,7,farcontinuationprompt2,"Next, you notice that the train is nearby.",4,385,0,far,continuation,2,3,shuffled,2.0,objectness
+492,R_2BORCQnniI0pa8p,7,continuation3continuationprompt3,"Next, you take money from the safe.",4,386,0,continuation3,continuation,3,0,shuffled,3.0,temporal
+493,R_2BORCQnniI0pa8p,7,cuttingcontinuationprompt2,"Next, you look at the fence from inside the garden.",4,387,1,cutting,continuation,2,1,shuffled,3.0,geometry
+494,R_2BORCQnniI0pa8p,7,emptycontinuationprompt2,"Next, you pick up the empty box.",4,388,1,empty,continuation,2,5,shuffled,2.0,geometry
+495,R_2BORCQnniI0pa8p,7,morecontinuationprompt3,"Next, you notice that there are more beads in the bowl than in the cup.",4,389,1,more,continuation,3,1,shuffled,2.0,numerosity
+496,R_2BORCQnniI0pa8p,7,comingcontinuationprompt1,"Next, you see your friend inside the house.",4,390,0,coming,continuation,1,2,shuffled,1.0,social
+497,R_2BORCQnniI0pa8p,7,eatingcontinuationprompt3,"Next, you see that the salad is gone.",4,391,1,eating,continuation,3,3,shuffled,1.0,objectness
+508,R_2EYWdnrkfH1qdi3,6,colorcontinuationprompt2,"Next, you notice how the blocks are different colors.",4,195,1,color,continuation,2,0,shuffled,2.0,geometry
+509,R_2EYWdnrkfH1qdi3,6,speedcontinuationprompt1,"Now, you will arrive earlier to your friend's house.",4,196,1,speed,continuation,1,1,shuffled,3.0,temporal
+510,R_2EYWdnrkfH1qdi3,6,reciprocitycontinuationprompt2,"Next, you offer to return the favor",4,197,1,reciprocity,continuation,2,2,shuffled,3.0,social
+511,R_2EYWdnrkfH1qdi3,6,smallestcontinuationprompt2,"Next, you see the smaller item in the box.",4,198,1,smallest,continuation,2,2,shuffled,3.0,numerosity
+512,R_2EYWdnrkfH1qdi3,6,completioncontinuationprompt1,"Next, you look back at the complete form.",4,199,1,completion,continuation,1,3,shuffled,2.0,social
+513,R_2EYWdnrkfH1qdi3,6,taste2continuationprompt3,"Next, you taste something good.",4,200,0,taste2,continuation,3,4,shuffled,1.0,temporal
+514,R_2EYWdnrkfH1qdi3,6,farcontinuationprompt2,"Next, you notice that the train is nearby.",4,201,0,far,continuation,2,3,shuffled,2.0,objectness
+515,R_2EYWdnrkfH1qdi3,6,continuation3continuationprompt3,"Next, you take money from the safe.",4,202,0,continuation3,continuation,3,0,shuffled,3.0,temporal
+516,R_2EYWdnrkfH1qdi3,6,cuttingcontinuationprompt2,"Next, you look at the fence from outside the garden.",4,203,0,cutting,continuation,2,1,shuffled,3.0,geometry
+517,R_2EYWdnrkfH1qdi3,6,emptycontinuationprompt2,"Next, you pick up the almost empty box.",4,204,0,empty,continuation,2,5,shuffled,2.0,geometry
+518,R_2EYWdnrkfH1qdi3,6,morecontinuationprompt3,"Next, you notice that there are less beads in the bowl than in the cup.",4,205,0,more,continuation,3,1,shuffled,2.0,numerosity
+519,R_2EYWdnrkfH1qdi3,6,comingcontinuationprompt1,"Next, you see your friend outside the house.",4,206,1,coming,continuation,1,2,shuffled,1.0,social
+520,R_2EYWdnrkfH1qdi3,6,eatingcontinuationprompt3,"Next, you see that the salad is gone.",4,207,1,eating,continuation,3,3,shuffled,1.0,objectness
+531,R_2ZnSolNbZ0RaRJn,7,colorcontinuationprompt2,"Next, you notice how the blocks are different colors.",4,11,1,color,continuation,2,0,shuffled,2.0,geometry
+532,R_2ZnSolNbZ0RaRJn,7,speedcontinuationprompt1,"Now, you will arrive earlier to your friend's house.",4,12,1,speed,continuation,1,1,shuffled,3.0,temporal
+533,R_2ZnSolNbZ0RaRJn,7,reciprocitycontinuationprompt2,"Next, you offer to return the favor",4,13,1,reciprocity,continuation,2,2,shuffled,3.0,social
+534,R_2ZnSolNbZ0RaRJn,7,smallestcontinuationprompt2,"Next, you see the smaller item in the box.",4,14,1,smallest,continuation,2,2,shuffled,3.0,numerosity
+535,R_2ZnSolNbZ0RaRJn,7,completioncontinuationprompt1,"Next, you look back at the empty form.",4,15,0,completion,continuation,1,3,shuffled,2.0,social
+536,R_2ZnSolNbZ0RaRJn,7,taste2continuationprompt3,"Next, you taste something good.",4,16,0,taste2,continuation,3,4,shuffled,1.0,temporal
+537,R_2ZnSolNbZ0RaRJn,7,farcontinuationprompt2,"Next, you notice that the train is far away.",4,17,1,far,continuation,2,3,shuffled,2.0,objectness
+538,R_2ZnSolNbZ0RaRJn,7,continuation3continuationprompt3,"Next, you take a nothing from the safe.",4,18,1,continuation3,continuation,3,0,shuffled,3.0,temporal
+539,R_2ZnSolNbZ0RaRJn,7,cuttingcontinuationprompt2,"Next, you look at the fence from inside the garden.",4,19,1,cutting,continuation,2,1,shuffled,3.0,geometry
+540,R_2ZnSolNbZ0RaRJn,7,emptycontinuationprompt2,"Next, you pick up the empty box.",4,20,1,empty,continuation,2,5,shuffled,2.0,geometry
+541,R_2ZnSolNbZ0RaRJn,7,morecontinuationprompt3,"Next, you notice that there are less beads in the bowl than in the cup.",4,21,0,more,continuation,3,1,shuffled,2.0,numerosity
+542,R_2ZnSolNbZ0RaRJn,7,comingcontinuationprompt1,"Next, you see your friend outside the house.",4,22,1,coming,continuation,1,2,shuffled,1.0,social
+543,R_2ZnSolNbZ0RaRJn,7,eatingcontinuationprompt3,"Next, you see that the salad is gone.",4,23,1,eating,continuation,3,3,shuffled,1.0,objectness
+554,R_2kKDOfdDRAG4LNT,7,colorcontinuationprompt2,"Next, you notice how the blocks are different colors.",4,103,1,color,continuation,2,0,shuffled,2.0,geometry
+555,R_2kKDOfdDRAG4LNT,7,speedcontinuationprompt1,"Now, you will arrive earlier to your friend's house.",4,104,1,speed,continuation,1,1,shuffled,3.0,temporal
+556,R_2kKDOfdDRAG4LNT,7,reciprocitycontinuationprompt2,"Next, you offer another time.",4,105,0,reciprocity,continuation,2,2,shuffled,3.0,social
+557,R_2kKDOfdDRAG4LNT,7,smallestcontinuationprompt2,"Next, you see the smaller item in the box.",4,106,1,smallest,continuation,2,2,shuffled,3.0,numerosity
+558,R_2kKDOfdDRAG4LNT,7,completioncontinuationprompt1,"Next, you look back at the empty form.",4,107,0,completion,continuation,1,3,shuffled,2.0,social
+559,R_2kKDOfdDRAG4LNT,7,taste2continuationprompt3,"Next, you taste something good.",4,108,0,taste2,continuation,3,4,shuffled,1.0,temporal
+560,R_2kKDOfdDRAG4LNT,7,farcontinuationprompt2,"Next, you notice that the train is nearby.",4,109,0,far,continuation,2,3,shuffled,2.0,objectness
+561,R_2kKDOfdDRAG4LNT,7,continuation3continuationprompt3,"Next, you take a nothing from the safe.",4,110,1,continuation3,continuation,3,0,shuffled,3.0,temporal
+562,R_2kKDOfdDRAG4LNT,7,cuttingcontinuationprompt2,"Next, you look at the fence from inside the garden.",4,111,1,cutting,continuation,2,1,shuffled,3.0,geometry
+563,R_2kKDOfdDRAG4LNT,7,emptycontinuationprompt2,"Next, you pick up the empty box.",4,112,1,empty,continuation,2,5,shuffled,2.0,geometry
+564,R_2kKDOfdDRAG4LNT,7,morecontinuationprompt3,"Next, you notice that there are more beads in the bowl than in the cup.",4,113,1,more,continuation,3,1,shuffled,2.0,numerosity
+565,R_2kKDOfdDRAG4LNT,7,comingcontinuationprompt1,"Next, you see your friend outside the house.",4,114,1,coming,continuation,1,2,shuffled,1.0,social
+566,R_2kKDOfdDRAG4LNT,7,eatingcontinuationprompt3,"Next, you see that the salad is gone.",4,115,1,eating,continuation,3,3,shuffled,1.0,objectness
+577,R_2qgB4zO2GSZpG9h,6,colorcontinuationprompt2,"Next, you notice how the blocks are different colors.",4,563,1,color,continuation,2,0,shuffled,2.0,geometry
+578,R_2qgB4zO2GSZpG9h,6,speedcontinuationprompt1,"Now, you will arrive earlier to your friend's house.",4,564,1,speed,continuation,1,1,shuffled,3.0,temporal
+579,R_2qgB4zO2GSZpG9h,6,reciprocitycontinuationprompt2,"Next, you offer to return the favor",4,565,1,reciprocity,continuation,2,2,shuffled,3.0,social
+580,R_2qgB4zO2GSZpG9h,6,smallestcontinuationprompt2,"Next, you see the smaller item in the box.",4,566,1,smallest,continuation,2,2,shuffled,3.0,numerosity
+581,R_2qgB4zO2GSZpG9h,6,completioncontinuationprompt1,"Next, you look back at the complete form.",4,567,1,completion,continuation,1,3,shuffled,2.0,social
+582,R_2qgB4zO2GSZpG9h,6,taste2continuationprompt3,"Next, you taste something bad.",4,568,1,taste2,continuation,3,4,shuffled,1.0,temporal
+583,R_2qgB4zO2GSZpG9h,6,farcontinuationprompt2,"Next, you notice that the train is nearby.",4,569,0,far,continuation,2,3,shuffled,2.0,objectness
+584,R_2qgB4zO2GSZpG9h,6,continuation3continuationprompt3,"Next, you take a nothing from the safe.",4,570,1,continuation3,continuation,3,0,shuffled,3.0,temporal
+585,R_2qgB4zO2GSZpG9h,6,cuttingcontinuationprompt2,"Next, you look at the fence from outside the garden.",4,571,0,cutting,continuation,2,1,shuffled,3.0,geometry
+586,R_2qgB4zO2GSZpG9h,6,emptycontinuationprompt2,"Next, you pick up the empty box.",4,572,1,empty,continuation,2,5,shuffled,2.0,geometry
+587,R_2qgB4zO2GSZpG9h,6,morecontinuationprompt3,"Next, you notice that there are more beads in the bowl than in the cup.",4,573,1,more,continuation,3,1,shuffled,2.0,numerosity
+588,R_2qgB4zO2GSZpG9h,6,comingcontinuationprompt1,"Next, you see your friend inside the house.",4,574,0,coming,continuation,1,2,shuffled,1.0,social
+589,R_2qgB4zO2GSZpG9h,6,eatingcontinuationprompt3,"Next, you see that the salad is gone.",4,575,1,eating,continuation,3,3,shuffled,1.0,objectness
+600,R_80OaS4HM7zhosqi,7,colorcontinuationprompt2,"Next, you notice how the blocks are different colors.",4,287,1,color,continuation,2,0,shuffled,2.0,geometry
+601,R_80OaS4HM7zhosqi,7,speedcontinuationprompt1,"Now, you will arrive earlier to your friend's house.",4,288,1,speed,continuation,1,1,shuffled,3.0,temporal
+602,R_80OaS4HM7zhosqi,7,reciprocitycontinuationprompt2,"Next, you offer to return the favor",4,289,1,reciprocity,continuation,2,2,shuffled,3.0,social
+603,R_80OaS4HM7zhosqi,7,smallestcontinuationprompt2,"Next, you see the smaller item in the box.",4,290,1,smallest,continuation,2,2,shuffled,3.0,numerosity
+604,R_80OaS4HM7zhosqi,7,completioncontinuationprompt1,"Next, you look back at the complete form.",4,291,1,completion,continuation,1,3,shuffled,2.0,social
+605,R_80OaS4HM7zhosqi,7,taste2continuationprompt3,"Next, you taste something good.",4,292,0,taste2,continuation,3,4,shuffled,1.0,temporal
+606,R_80OaS4HM7zhosqi,7,farcontinuationprompt2,"Next, you notice that the train is nearby.",4,293,0,far,continuation,2,3,shuffled,2.0,objectness
+607,R_80OaS4HM7zhosqi,7,continuation3continuationprompt3,"Next, you take a nothing from the safe.",4,294,1,continuation3,continuation,3,0,shuffled,3.0,temporal
+608,R_80OaS4HM7zhosqi,7,cuttingcontinuationprompt2,"Next, you look at the fence from outside the garden.",4,295,0,cutting,continuation,2,1,shuffled,3.0,geometry
+609,R_80OaS4HM7zhosqi,7,emptycontinuationprompt2,"Next, you pick up the empty box.",4,296,1,empty,continuation,2,5,shuffled,2.0,geometry
+610,R_80OaS4HM7zhosqi,7,morecontinuationprompt3,"Next, you notice that there are less beads in the bowl than in the cup.",4,297,0,more,continuation,3,1,shuffled,2.0,numerosity
+611,R_80OaS4HM7zhosqi,7,comingcontinuationprompt1,"Next, you see your friend outside the house.",4,298,1,coming,continuation,1,2,shuffled,1.0,social
+612,R_80OaS4HM7zhosqi,7,eatingcontinuationprompt3,"Next, you see that the salad is gone.",4,299,1,eating,continuation,3,3,shuffled,1.0,objectness
+623,R_8Lb6c6KpsUOyqOM,7,colorcontinuationprompt2,"Next, you notice how the blocks are different colors.",4,471,1,color,continuation,2,0,shuffled,2.0,geometry
+624,R_8Lb6c6KpsUOyqOM,7,speedcontinuationprompt1,"Now, you will arrive earlier to your friend's house.",4,472,1,speed,continuation,1,1,shuffled,3.0,temporal
+625,R_8Lb6c6KpsUOyqOM,7,reciprocitycontinuationprompt2,"Next, you offer to return the favor",4,473,1,reciprocity,continuation,2,2,shuffled,3.0,social
+626,R_8Lb6c6KpsUOyqOM,7,smallestcontinuationprompt2,"Next, you see the smaller item in the box.",4,474,1,smallest,continuation,2,2,shuffled,3.0,numerosity
+627,R_8Lb6c6KpsUOyqOM,7,completioncontinuationprompt1,"Next, you look back at the complete form.",4,475,1,completion,continuation,1,3,shuffled,2.0,social
+628,R_8Lb6c6KpsUOyqOM,7,taste2continuationprompt3,"Next, you taste something good.",4,476,0,taste2,continuation,3,4,shuffled,1.0,temporal
+629,R_8Lb6c6KpsUOyqOM,7,farcontinuationprompt2,"Next, you notice that the train is nearby.",4,477,0,far,continuation,2,3,shuffled,2.0,objectness
+630,R_8Lb6c6KpsUOyqOM,7,continuation3continuationprompt3,"Next, you take money from the safe.",4,478,0,continuation3,continuation,3,0,shuffled,3.0,temporal
+631,R_8Lb6c6KpsUOyqOM,7,cuttingcontinuationprompt2,"Next, you look at the fence from inside the garden.",4,479,1,cutting,continuation,2,1,shuffled,3.0,geometry
+632,R_8Lb6c6KpsUOyqOM,7,emptycontinuationprompt2,"Next, you pick up the empty box.",4,480,1,empty,continuation,2,5,shuffled,2.0,geometry
+633,R_8Lb6c6KpsUOyqOM,7,morecontinuationprompt3,"Next, you notice that there are more beads in the bowl than in the cup.",4,481,1,more,continuation,3,1,shuffled,2.0,numerosity
+634,R_8Lb6c6KpsUOyqOM,7,comingcontinuationprompt1,"Next, you see your friend outside the house.",4,482,1,coming,continuation,1,2,shuffled,1.0,social
+635,R_8Lb6c6KpsUOyqOM,7,eatingcontinuationprompt3,"Next, you see that the salad is gone.",4,483,1,eating,continuation,3,3,shuffled,1.0,objectness
+648,R_275JJJnXnwFe9xf,6,correspondencecontinuationprompt1,"Next, you lock the door.",5,286,0,correspondence,continuation,1,1,shuffled,3.0,temporal
+649,R_275JJJnXnwFe9xf,6,farcontinuationprompt1,"Now, you know that you will be here for some time",5,287,1,far,continuation,1,5,shuffled,2.0,objectness
+650,R_275JJJnXnwFe9xf,6,daycontinuationprompt2,"Next, you look at the clock and see that it is 7AM.",5,288,1,day,continuation,2,1,shuffled,1.0,temporal
+651,R_275JJJnXnwFe9xf,6,touchcontinuationprompt3,"Next, you feel a prick.",5,289,1,touch,continuation,3,3,shuffled,1.0,objectness
+652,R_275JJJnXnwFe9xf,6,completioncontinuationprompt3,"Next, you put the pen next to the complete form.",5,290,1,completion,continuation,3,0,shuffled,2.0,social
+653,R_275JJJnXnwFe9xf,6,mattercontinuationprompt1,"Next, you notice the water boiling.",5,291,1,matter,continuation,1,5,shuffled,3.0,geometry
+654,R_275JJJnXnwFe9xf,6,reciprocitycontinuationprompt3,"Next, you say thank you.",5,292,1,reciprocity,continuation,3,2,shuffled,3.0,social
+655,R_275JJJnXnwFe9xf,6,namescontinuationprompt1,"Next, you ask whether his name is John.",5,293,1,names,continuation,1,5,shuffled,3.0,social
+656,R_275JJJnXnwFe9xf,6,agecontinuationprompt3,"Next, you think about how that was a long time ago.",5,294,1,age,continuation,3,5,shuffled,1.0,temporal
+657,R_275JJJnXnwFe9xf,6,largest2continuationprompt3,"Next, you leave less money for the next person.",5,295,1,largest2,continuation,3,2,shuffled,2.0,numerosity
+658,R_275JJJnXnwFe9xf,6,abovecontinuationprompt3,"Next, you look back at the books below the shelf.",5,296,0,above,continuation,3,3,shuffled,1.0,geometry
+671,R_2Dqmf990X6N1xC0,7,correspondencecontinuationprompt1,"Next, you unlock the door.",5,559,1,correspondence,continuation,1,1,shuffled,3.0,temporal
+672,R_2Dqmf990X6N1xC0,7,farcontinuationprompt1,"Now, you know that you will be here not so long",5,560,0,far,continuation,1,5,shuffled,2.0,objectness
+673,R_2Dqmf990X6N1xC0,7,daycontinuationprompt2,"Next, you look at the clock and see that it is 7AM.",5,561,1,day,continuation,2,1,shuffled,1.0,temporal
+674,R_2Dqmf990X6N1xC0,7,touchcontinuationprompt3,"Next, you feel a prick.",5,562,1,touch,continuation,3,3,shuffled,1.0,objectness
+675,R_2Dqmf990X6N1xC0,7,completioncontinuationprompt3,"Next, you put the pen next to the complete form.",5,563,1,completion,continuation,3,0,shuffled,2.0,social
+676,R_2Dqmf990X6N1xC0,7,mattercontinuationprompt1,"Next, you notice the water boiling.",5,564,1,matter,continuation,1,5,shuffled,3.0,geometry
+677,R_2Dqmf990X6N1xC0,7,reciprocitycontinuationprompt3,"Next, you say thank you.",5,565,1,reciprocity,continuation,3,2,shuffled,3.0,social
+678,R_2Dqmf990X6N1xC0,7,namescontinuationprompt1,"Next, you ask whether his name is John.",5,566,1,names,continuation,1,5,shuffled,3.0,social
+679,R_2Dqmf990X6N1xC0,7,agecontinuationprompt3,"Next, you think about how that was a long time ago.",5,567,1,age,continuation,3,5,shuffled,1.0,temporal
+680,R_2Dqmf990X6N1xC0,7,largest2continuationprompt3,"Next, you leave less money for the next person.",5,568,1,largest2,continuation,3,2,shuffled,2.0,numerosity
+681,R_2Dqmf990X6N1xC0,7,abovecontinuationprompt3,"Next, you look back at the books on top of the shelf.",5,569,1,above,continuation,3,3,shuffled,1.0,geometry
+694,R_2OoFfTtjF4aR6bV,6,correspondencecontinuationprompt1,"Next, you unlock the door.",5,195,1,correspondence,continuation,1,1,shuffled,3.0,temporal
+695,R_2OoFfTtjF4aR6bV,6,farcontinuationprompt1,"Now, you know that you will be here not so long",5,196,0,far,continuation,1,5,shuffled,2.0,objectness
+696,R_2OoFfTtjF4aR6bV,6,daycontinuationprompt2,"Next, you look at the clock and see that it is 7AM.",5,197,1,day,continuation,2,1,shuffled,1.0,temporal
+697,R_2OoFfTtjF4aR6bV,6,touchcontinuationprompt3,"Next, you feel a prick.",5,198,1,touch,continuation,3,3,shuffled,1.0,objectness
+698,R_2OoFfTtjF4aR6bV,6,completioncontinuationprompt3,"Next, you put the pen next to the complete form.",5,199,1,completion,continuation,3,0,shuffled,2.0,social
+699,R_2OoFfTtjF4aR6bV,6,mattercontinuationprompt1,"Next, you notice the ice melting.",5,200,0,matter,continuation,1,5,shuffled,3.0,geometry
+700,R_2OoFfTtjF4aR6bV,6,reciprocitycontinuationprompt3,"Next, you say thank you.",5,201,1,reciprocity,continuation,3,2,shuffled,3.0,social
+701,R_2OoFfTtjF4aR6bV,6,namescontinuationprompt1,"Next, you ask whether his name is John.",5,202,1,names,continuation,1,5,shuffled,3.0,social
+702,R_2OoFfTtjF4aR6bV,6,agecontinuationprompt3,"Next, you think about how that was a long time ago.",5,203,1,age,continuation,3,5,shuffled,1.0,temporal
+703,R_2OoFfTtjF4aR6bV,6,largest2continuationprompt3,"Next, you leave more money for the next person.",5,204,0,largest2,continuation,3,2,shuffled,2.0,numerosity
+704,R_2OoFfTtjF4aR6bV,6,abovecontinuationprompt3,"Next, you look back at the books on top of the shelf.",5,205,1,above,continuation,3,3,shuffled,1.0,geometry
+716,R_2Pv30PuIrz1flDi,7,correspondencecontinuationprompt1,"Next, you unlock the door.",5,104,1,correspondence,continuation,1,1,shuffled,3.0,temporal
+717,R_2Pv30PuIrz1flDi,7,farcontinuationprompt1,"Now, you know that you will be here not so long",5,105,0,far,continuation,1,5,shuffled,2.0,objectness
+718,R_2Pv30PuIrz1flDi,7,daycontinuationprompt2,"Next, you look at the clock and see that it is 7AM.",5,106,1,day,continuation,2,1,shuffled,1.0,temporal
+719,R_2Pv30PuIrz1flDi,7,touchcontinuationprompt3,"Next, you feel a prick.",5,107,1,touch,continuation,3,3,shuffled,1.0,objectness
+720,R_2Pv30PuIrz1flDi,7,completioncontinuationprompt3,"Next, you put the pen next to the complete form.",5,108,1,completion,continuation,3,0,shuffled,2.0,social
+721,R_2Pv30PuIrz1flDi,7,mattercontinuationprompt1,"Next, you notice the ice melting.",5,109,0,matter,continuation,1,5,shuffled,3.0,geometry
+722,R_2Pv30PuIrz1flDi,7,reciprocitycontinuationprompt3,"Next, you say thank you.",5,110,1,reciprocity,continuation,3,2,shuffled,3.0,social
+723,R_2Pv30PuIrz1flDi,7,namescontinuationprompt1,"Next, you ask whether his name is Jeff.",5,111,0,names,continuation,1,5,shuffled,3.0,social
+724,R_2Pv30PuIrz1flDi,7,agecontinuationprompt3,"Next, you think about how that was a long time ago.",5,112,1,age,continuation,3,5,shuffled,1.0,temporal
+725,R_2Pv30PuIrz1flDi,7,largest2continuationprompt3,"Next, you leave less money for the next person.",5,113,1,largest2,continuation,3,2,shuffled,2.0,numerosity
+726,R_2Pv30PuIrz1flDi,7,abovecontinuationprompt3,"Next, you look back at the books below the shelf.",5,114,0,above,continuation,3,3,shuffled,1.0,geometry
+739,R_2dXnF7WMcmPPF5L,7,correspondencecontinuationprompt1,"Next, you unlock the door.",5,468,1,correspondence,continuation,1,1,shuffled,3.0,temporal
+740,R_2dXnF7WMcmPPF5L,7,farcontinuationprompt1,"Now, you know that you will be here not so long",5,469,0,far,continuation,1,5,shuffled,2.0,objectness
+741,R_2dXnF7WMcmPPF5L,7,daycontinuationprompt2,"Next, you look at the clock and see that it is 7AM.",5,470,1,day,continuation,2,1,shuffled,1.0,temporal
+742,R_2dXnF7WMcmPPF5L,7,touchcontinuationprompt3,"Next, you feel a prick.",5,471,1,touch,continuation,3,3,shuffled,1.0,objectness
+743,R_2dXnF7WMcmPPF5L,7,completioncontinuationprompt3,"Next, you put the pen next to the complete form.",5,472,1,completion,continuation,3,0,shuffled,2.0,social
+744,R_2dXnF7WMcmPPF5L,7,mattercontinuationprompt1,"Next, you notice the ice melting.",5,473,0,matter,continuation,1,5,shuffled,3.0,geometry
+745,R_2dXnF7WMcmPPF5L,7,reciprocitycontinuationprompt3,"Next, you say thank you.",5,474,1,reciprocity,continuation,3,2,shuffled,3.0,social
+746,R_2dXnF7WMcmPPF5L,7,namescontinuationprompt1,"Next, you ask whether his name is John.",5,475,1,names,continuation,1,5,shuffled,3.0,social
+747,R_2dXnF7WMcmPPF5L,7,agecontinuationprompt3,"Next, you think about how that was a long time ago.",5,476,1,age,continuation,3,5,shuffled,1.0,temporal
+748,R_2dXnF7WMcmPPF5L,7,largest2continuationprompt3,"Next, you leave less money for the next person.",5,477,1,largest2,continuation,3,2,shuffled,2.0,numerosity
+749,R_2dXnF7WMcmPPF5L,7,abovecontinuationprompt3,"Next, you look back at the books on top of the shelf.",5,478,1,above,continuation,3,3,shuffled,1.0,geometry
+762,R_2xK1a0lg8JBtx5S,6,correspondencecontinuationprompt1,"Next, you unlock the door.",5,13,1,correspondence,continuation,1,1,shuffled,3.0,temporal
+763,R_2xK1a0lg8JBtx5S,6,farcontinuationprompt1,"Now, you know that you will be here not so long",5,14,0,far,continuation,1,5,shuffled,2.0,objectness
+764,R_2xK1a0lg8JBtx5S,6,daycontinuationprompt2,"Next, you look at the clock and see that it is 7AM.",5,15,1,day,continuation,2,1,shuffled,1.0,temporal
+765,R_2xK1a0lg8JBtx5S,6,touchcontinuationprompt3,"Next, you feel nothing.",5,16,0,touch,continuation,3,3,shuffled,1.0,objectness
+766,R_2xK1a0lg8JBtx5S,6,completioncontinuationprompt3,"Next, you put the pen next to the complete form.",5,17,1,completion,continuation,3,0,shuffled,2.0,social
+767,R_2xK1a0lg8JBtx5S,6,mattercontinuationprompt1,"Next, you notice the water boiling.",5,18,1,matter,continuation,1,5,shuffled,3.0,geometry
+768,R_2xK1a0lg8JBtx5S,6,reciprocitycontinuationprompt3,"Next, you say thank you.",5,19,1,reciprocity,continuation,3,2,shuffled,3.0,social
+769,R_2xK1a0lg8JBtx5S,6,namescontinuationprompt1,"Next, you ask whether his name is John.",5,20,1,names,continuation,1,5,shuffled,3.0,social
+770,R_2xK1a0lg8JBtx5S,6,agecontinuationprompt3,"Next, you think about how that was a long time ago.",5,21,1,age,continuation,3,5,shuffled,1.0,temporal
+771,R_2xK1a0lg8JBtx5S,6,largest2continuationprompt3,"Next, you leave less money for the next person.",5,22,1,largest2,continuation,3,2,shuffled,2.0,numerosity
+772,R_2xK1a0lg8JBtx5S,6,abovecontinuationprompt3,"Next, you look back at the books on top of the shelf.",5,23,1,above,continuation,3,3,shuffled,1.0,geometry
+785,R_8VxB6pPyXB3kyAq,6,correspondencecontinuationprompt1,"Next, you unlock the door.",5,377,1,correspondence,continuation,1,1,shuffled,3.0,temporal
+786,R_8VxB6pPyXB3kyAq,6,farcontinuationprompt1,"Now, you know that you will be here not so long",5,378,0,far,continuation,1,5,shuffled,2.0,objectness
+787,R_8VxB6pPyXB3kyAq,6,daycontinuationprompt2,"Next, you look at the clock and see that it is 7AM.",5,379,1,day,continuation,2,1,shuffled,1.0,temporal
+788,R_8VxB6pPyXB3kyAq,6,touchcontinuationprompt3,"Next, you feel nothing.",5,380,0,touch,continuation,3,3,shuffled,1.0,objectness
+789,R_8VxB6pPyXB3kyAq,6,completioncontinuationprompt3,"Next, you put the pen next to the complete form.",5,381,1,completion,continuation,3,0,shuffled,2.0,social
+790,R_8VxB6pPyXB3kyAq,6,mattercontinuationprompt1,"Next, you notice the water boiling.",5,382,1,matter,continuation,1,5,shuffled,3.0,geometry
+791,R_8VxB6pPyXB3kyAq,6,reciprocitycontinuationprompt3,"Next, you say thank you.",5,383,1,reciprocity,continuation,3,2,shuffled,3.0,social
+792,R_8VxB6pPyXB3kyAq,6,namescontinuationprompt1,"Next, you ask whether his name is Jeff.",5,384,0,names,continuation,1,5,shuffled,3.0,social
+793,R_8VxB6pPyXB3kyAq,6,agecontinuationprompt3,"Next, you think about how that was a long time ago.",5,385,1,age,continuation,3,5,shuffled,1.0,temporal
+794,R_8VxB6pPyXB3kyAq,6,largest2continuationprompt3,"Next, you leave more money for the next person.",5,386,0,largest2,continuation,3,2,shuffled,2.0,numerosity
+795,R_8VxB6pPyXB3kyAq,6,abovecontinuationprompt3,"Next, you look back at the books on top of the shelf.",5,387,1,above,continuation,3,3,shuffled,1.0,geometry
+808,R_21fbvAxlgz6NINb,7,smallest2continuationprompt1,"Next, you look back at the smaller apple in your hand.",6,473,1,smallest2,continuation,1,0,shuffled,2.0,numerosity
+809,R_21fbvAxlgz6NINb,7,continuation2continuationprompt1,"Next, you open the chest.",6,474,1,continuation2,continuation,1,3,shuffled,3.0,temporal
+810,R_21fbvAxlgz6NINb,7,cuttingcontinuationprompt1,"Next, you go for a walk in the garden.",6,475,1,cutting,continuation,1,2,shuffled,3.0,geometry
+811,R_21fbvAxlgz6NINb,7,dyingcontinuationprompt1,"Next, you notice the flowers are still alive when you return.",6,476,0,dying,continuation,1,1,shuffled,3.0,temporal
+812,R_21fbvAxlgz6NINb,7,reciprocitycontinuationprompt3,"Next, you say thank you.",6,477,1,reciprocity,continuation,3,2,shuffled,3.0,social
+813,R_21fbvAxlgz6NINb,7,namescontinuationprompt1,"Next, you ask whether his name is John.",6,479,1,names,continuation,1,1,shuffled,3.0,social
+814,R_21fbvAxlgz6NINb,7,continuation3continuationprompt1,"Next, you open the safe.",6,480,1,continuation3,continuation,1,2,shuffled,3.0,temporal
+815,R_21fbvAxlgz6NINb,7,newcontinuationprompt2,"Next, you look at all the dust.",6,481,0,new,continuation,2,0,shuffled,2.0,temporal
+816,R_21fbvAxlgz6NINb,7,copycontinuationprompt3,"Now, you have two lists.",6,482,1,copy,continuation,3,4,shuffled,2.0,social
+817,R_21fbvAxlgz6NINb,7,mattercontinuationprompt2,"Next, you notice the gas forming.",6,483,1,matter,continuation,2,3,shuffled,3.0,geometry
+830,R_2HhC7yKTpW8XkcN,6,smallest2continuationprompt1,"Next, you look back at the smaller apple in your hand.",6,197,1,smallest2,continuation,1,0,shuffled,2.0,numerosity
+831,R_2HhC7yKTpW8XkcN,6,continuation2continuationprompt1,"Next, you open the chest.",6,198,1,continuation2,continuation,1,3,shuffled,3.0,temporal
+832,R_2HhC7yKTpW8XkcN,6,cuttingcontinuationprompt1,"Next, you go for a walk in the neighborhood.",6,199,0,cutting,continuation,1,2,shuffled,3.0,geometry
+833,R_2HhC7yKTpW8XkcN,6,dyingcontinuationprompt1,"Next, you notice the flowers are dead when you return.",6,200,1,dying,continuation,1,1,shuffled,3.0,temporal
+834,R_2HhC7yKTpW8XkcN,6,reciprocitycontinuationprompt3,"Next, you say thank you.",6,201,1,reciprocity,continuation,3,2,shuffled,3.0,social
+835,R_2HhC7yKTpW8XkcN,6,namescontinuationprompt1,"Next, you ask whether his name is Jeff.",6,203,0,names,continuation,1,1,shuffled,3.0,social
+836,R_2HhC7yKTpW8XkcN,6,continuation3continuationprompt1,"Next, you open the safe.",6,204,1,continuation3,continuation,1,2,shuffled,3.0,temporal
+837,R_2HhC7yKTpW8XkcN,6,newcontinuationprompt2,"Next, you look at all the sparkling gold.",6,205,1,new,continuation,2,0,shuffled,2.0,temporal
+838,R_2HhC7yKTpW8XkcN,6,copycontinuationprompt3,"Now, you have two lists.",6,206,1,copy,continuation,3,4,shuffled,2.0,social
+839,R_2HhC7yKTpW8XkcN,6,mattercontinuationprompt2,"Next, you notice the gas forming.",6,207,1,matter,continuation,2,3,shuffled,3.0,geometry
+852,R_2ISmbtPKQ85MYDa,6,smallest2continuationprompt1,"Next, you look back at the bigger apple in your hand.",6,381,0,smallest2,continuation,1,0,shuffled,2.0,numerosity
+853,R_2ISmbtPKQ85MYDa,6,continuation2continuationprompt1,"Next, you open the chest.",6,382,1,continuation2,continuation,1,3,shuffled,3.0,temporal
+854,R_2ISmbtPKQ85MYDa,6,cuttingcontinuationprompt1,"Next, you go for a walk in the garden.",6,383,1,cutting,continuation,1,2,shuffled,3.0,geometry
+855,R_2ISmbtPKQ85MYDa,6,dyingcontinuationprompt1,"Next, you notice the flowers are dead when you return.",6,384,1,dying,continuation,1,1,shuffled,3.0,temporal
+856,R_2ISmbtPKQ85MYDa,6,reciprocitycontinuationprompt3,"Next, you say thank you.",6,385,1,reciprocity,continuation,3,2,shuffled,3.0,social
+857,R_2ISmbtPKQ85MYDa,6,namescontinuationprompt1,"Next, you ask whether his name is Jeff.",6,387,0,names,continuation,1,1,shuffled,3.0,social
+858,R_2ISmbtPKQ85MYDa,6,continuation3continuationprompt1,"Next, you open the safe.",6,388,1,continuation3,continuation,1,2,shuffled,3.0,temporal
+859,R_2ISmbtPKQ85MYDa,6,newcontinuationprompt2,"Next, you look at all the dust.",6,389,0,new,continuation,2,0,shuffled,2.0,temporal
+860,R_2ISmbtPKQ85MYDa,6,copycontinuationprompt3,"Now, you have one list.",6,390,0,copy,continuation,3,4,shuffled,2.0,social
+861,R_2ISmbtPKQ85MYDa,6,mattercontinuationprompt2,"Next, you notice the gas forming.",6,391,1,matter,continuation,2,3,shuffled,3.0,geometry
+874,R_7TUgWuydE0cBlYu,7,smallest2continuationprompt1,"Next, you look back at the bigger apple in your hand.",6,289,0,smallest2,continuation,1,0,shuffled,2.0,numerosity
+875,R_7TUgWuydE0cBlYu,7,continuation2continuationprompt1,"Next, you close the chest.",6,290,0,continuation2,continuation,1,3,shuffled,3.0,temporal
+876,R_7TUgWuydE0cBlYu,7,cuttingcontinuationprompt1,"Next, you go for a walk in the garden.",6,291,1,cutting,continuation,1,2,shuffled,3.0,geometry
+877,R_7TUgWuydE0cBlYu,7,dyingcontinuationprompt1,"Next, you notice the flowers are dead when you return.",6,292,1,dying,continuation,1,1,shuffled,3.0,temporal
+878,R_7TUgWuydE0cBlYu,7,reciprocitycontinuationprompt3,"Next, you say thank you.",6,293,1,reciprocity,continuation,3,2,shuffled,3.0,social
+879,R_7TUgWuydE0cBlYu,7,namescontinuationprompt1,"Next, you ask whether his name is John.",6,295,1,names,continuation,1,1,shuffled,3.0,social
+880,R_7TUgWuydE0cBlYu,7,continuation3continuationprompt1,"Next, you open the safe.",6,296,1,continuation3,continuation,1,2,shuffled,3.0,temporal
+881,R_7TUgWuydE0cBlYu,7,newcontinuationprompt2,"Next, you look at all the dust.",6,297,0,new,continuation,2,0,shuffled,2.0,temporal
+882,R_7TUgWuydE0cBlYu,7,copycontinuationprompt3,"Now, you have one list.",6,298,0,copy,continuation,3,4,shuffled,2.0,social
+883,R_7TUgWuydE0cBlYu,7,mattercontinuationprompt2,"Next, you notice the gas forming.",6,299,1,matter,continuation,2,3,shuffled,3.0,geometry
+896,R_8DSE1mwBmRza31B,7,smallest2continuationprompt1,"Next, you look back at the smaller apple in your hand.",6,565,1,smallest2,continuation,1,0,shuffled,2.0,numerosity
+897,R_8DSE1mwBmRza31B,7,continuation2continuationprompt1,"Next, you open the chest.",6,566,1,continuation2,continuation,1,3,shuffled,3.0,temporal
+898,R_8DSE1mwBmRza31B,7,cuttingcontinuationprompt1,"Next, you go for a walk in the garden.",6,567,1,cutting,continuation,1,2,shuffled,3.0,geometry
+899,R_8DSE1mwBmRza31B,7,dyingcontinuationprompt1,"Next, you notice the flowers are still alive when you return.",6,568,0,dying,continuation,1,1,shuffled,3.0,temporal
+900,R_8DSE1mwBmRza31B,7,reciprocitycontinuationprompt3,"Next, you say thank you.",6,569,1,reciprocity,continuation,3,2,shuffled,3.0,social
+901,R_8DSE1mwBmRza31B,7,namescontinuationprompt1,"Next, you ask whether his name is John.",6,571,1,names,continuation,1,1,shuffled,3.0,social
+902,R_8DSE1mwBmRza31B,7,continuation3continuationprompt1,"Next, you open the safe.",6,572,1,continuation3,continuation,1,2,shuffled,3.0,temporal
+903,R_8DSE1mwBmRza31B,7,newcontinuationprompt2,"Next, you look at all the sparkling gold.",6,573,1,new,continuation,2,0,shuffled,2.0,temporal
+904,R_8DSE1mwBmRza31B,7,copycontinuationprompt3,"Now, you have two lists.",6,574,1,copy,continuation,3,4,shuffled,2.0,social
+905,R_8DSE1mwBmRza31B,7,mattercontinuationprompt2,"Next, you notice the gas forming.",6,575,1,matter,continuation,2,3,shuffled,3.0,geometry
+918,R_8Qy8p24wqPl6p9n,5,smallest2continuationprompt1,"Next, you look back at the smaller apple in your hand.",6,105,1,smallest2,continuation,1,0,shuffled,2.0,numerosity
+919,R_8Qy8p24wqPl6p9n,5,continuation2continuationprompt1,"Next, you open the chest.",6,106,1,continuation2,continuation,1,3,shuffled,3.0,temporal
+920,R_8Qy8p24wqPl6p9n,5,cuttingcontinuationprompt1,"Next, you go for a walk in the garden.",6,107,1,cutting,continuation,1,2,shuffled,3.0,geometry
+921,R_8Qy8p24wqPl6p9n,5,dyingcontinuationprompt1,"Next, you notice the flowers are dead when you return.",6,108,1,dying,continuation,1,1,shuffled,3.0,temporal
+922,R_8Qy8p24wqPl6p9n,5,reciprocitycontinuationprompt3,"Next, you say thank you.",6,109,1,reciprocity,continuation,3,2,shuffled,3.0,social
+923,R_8Qy8p24wqPl6p9n,5,namescontinuationprompt1,"Next, you ask whether his name is John.",6,111,1,names,continuation,1,1,shuffled,3.0,social
+924,R_8Qy8p24wqPl6p9n,5,continuation3continuationprompt1,"Next, you open the safe.",6,112,1,continuation3,continuation,1,2,shuffled,3.0,temporal
+925,R_8Qy8p24wqPl6p9n,5,newcontinuationprompt2,"Next, you look at all the dust.",6,113,0,new,continuation,2,0,shuffled,2.0,temporal
+926,R_8Qy8p24wqPl6p9n,5,copycontinuationprompt3,"Now, you have two lists.",6,114,1,copy,continuation,3,4,shuffled,2.0,social
+927,R_8Qy8p24wqPl6p9n,5,mattercontinuationprompt2,"Next, you notice the gas forming.",6,115,1,matter,continuation,2,3,shuffled,3.0,geometry
+940,R_8ZP9f4t8l9cLCIg,7,smallest2continuationprompt1,"Next, you look back at the smaller apple in your hand.",6,13,1,smallest2,continuation,1,0,shuffled,2.0,numerosity
+941,R_8ZP9f4t8l9cLCIg,7,continuation2continuationprompt1,"Next, you open the chest.",6,14,1,continuation2,continuation,1,3,shuffled,3.0,temporal
+942,R_8ZP9f4t8l9cLCIg,7,cuttingcontinuationprompt1,"Next, you go for a walk in the neighborhood.",6,15,0,cutting,continuation,1,2,shuffled,3.0,geometry
+943,R_8ZP9f4t8l9cLCIg,7,dyingcontinuationprompt1,"Next, you notice the flowers are dead when you return.",6,16,1,dying,continuation,1,1,shuffled,3.0,temporal
+944,R_8ZP9f4t8l9cLCIg,7,reciprocitycontinuationprompt3,"Next, you say thank you.",6,17,1,reciprocity,continuation,3,2,shuffled,3.0,social
+945,R_8ZP9f4t8l9cLCIg,7,namescontinuationprompt1,"Next, you ask whether his name is John.",6,19,1,names,continuation,1,1,shuffled,3.0,social
+946,R_8ZP9f4t8l9cLCIg,7,continuation3continuationprompt1,"Next, you open the safe.",6,20,1,continuation3,continuation,1,2,shuffled,3.0,temporal
+947,R_8ZP9f4t8l9cLCIg,7,newcontinuationprompt2,"Next, you look at all the sparkling gold.",6,21,1,new,continuation,2,0,shuffled,2.0,temporal
+948,R_8ZP9f4t8l9cLCIg,7,copycontinuationprompt3,"Now, you have two lists.",6,22,1,copy,continuation,3,4,shuffled,2.0,social
+949,R_8ZP9f4t8l9cLCIg,7,mattercontinuationprompt2,"Next, you notice the gas forming.",6,23,1,matter,continuation,2,3,shuffled,3.0,geometry
